@@ -1,0 +1,9 @@
+{
+    "defaults": {
+      "run": {
+        "parallel": true,
+        "agents": 4
+      }
+    }
+  }
+  
